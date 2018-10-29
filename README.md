@@ -1,2 +1,2 @@
 # BR-Meetingplanner
-A job I got at work to make a meeting planner UI.
+A task I got at work to make a meeting planner UI.
