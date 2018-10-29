@@ -1,0 +1,13 @@
+ - Implementer funktion til "Previous" knapperne [done]
+ - Lav funktion til at opdatere medarbejder listen [done]
+ - Form2:
+	- Find ud af hvorfor den indsætter de nye bokse for langt nede [done]
+	- Find ud af hvorfor den indsætter de nye bokse for langt til højre [done]
+	- Implementer en remove funktion [done]
+	- Sørg for at alle tider ikke følges ad i valg
+ - Lav resten af Form4
+	- Implementer "removeCoworker()" funktionen
+	- Implementer "moveControlsUp()" funktionen
+	- Implementer "moveControlsDown()" funktionen
+	- Tilføj resten af elementerne og husk og tilføj dem til moveControlsUp og Down funktionerne
+ - Lav resten af programmet
